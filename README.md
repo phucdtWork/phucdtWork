@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 ```javascript
-const phuc = {
+const phucDT = {
   location: "Vietnam 🇻🇳",
   currentWork: "Pago Solution",
   currentLearning: ["Next.js", "TypeScript", "System Design"],
