@@ -102,8 +102,10 @@ const phuc = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+  
+  ### 💭 Quote of the Day
+  
+  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
   ---
   
