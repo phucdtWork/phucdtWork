@@ -84,13 +84,13 @@ const phuc = {
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=phucdt.work@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=phucdt.work@gmail.com" target="_blank"  rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-  <a href="https://drive.google.com/file/d/15FJ1-eCxZf2fULI5W9zlyVVrCEOGU09Y/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/15FJ1-eCxZf2fULI5W9zlyVVrCEOGU09Y/view?usp=sharing" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://github.com/phucdtWork" target="_blank">
+  <a href="https://github.com/phucdtWork" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
