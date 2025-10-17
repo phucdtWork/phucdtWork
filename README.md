@@ -26,7 +26,7 @@ const phuc = {
   location: "Vietnam 🇻🇳",
   currentWork: "Pago Solution",
   currentLearning: ["Next.js", "TypeScript", "System Design"],
-  expertise: ["React", "React Native", "Tailwind CSS"],
+  expertise: ["React", "React Native", "Tailwind CSS", "Nodejs"],
   hobbies: ["Coding", "Reading Tech Blogs", "Building Side Projects"],
   contact: "phucdt.work@gmail.com",
 };
