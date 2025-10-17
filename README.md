@@ -1,63 +1,112 @@
-<a href="#" target="_blank">
-  <img src="svg/phucdtWork.svg" width="100%" alt="Phuc Doan Banner" />
-</a>
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="svg/phucdtWork.svg" width="100%" alt="phucdtWork Banner" />
+  </a>
+</div>
 
-<h1 align="center">👋 Hi, I'm Phuc</h1>
-<h3 align="center">💻 A passionate Web Developer from Viet Nam 🇻🇳</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Phuc;Web+Developer;React+Enthusiast;Mobile+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/PagoSolution.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Work-Pago-blue?style=for-the-badge&logo=facebook" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=phucdtwork&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/phucdtwork?label=Followers&style=social" alt="followers" />
+</p>
+
+<p align="center">
+  💻 A passionate <strong>Web Developer</strong> from 🇻🇳 <strong>Vietnam</strong>
+</p>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const phuc = {
+  location: "Vietnam 🇻🇳",
+  currentWork: "Pago Solution",
+  currentLearning: ["Next.js", "TypeScript", "System Design"],
+  expertise: ["React", "React Native", "Tailwind CSS"],
+  hobbies: ["Coding", "Reading Tech Blogs", "Building Side Projects"],
+  contact: "phucdt.work@gmail.com",
+};
+```
+
+## 🔭 Current Focus
+
+- 🏢 Working at **[Pago Solution](https://www.facebook.com/PagoSolution.vn)**
+- 🌱 Learning **Next.js** & **Advanced React Patterns**
+- 💡 Building scalable web applications
+- 📱 Developing cross-platform mobile apps
+
+## 💼 Tech Stack
+
+### Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### Tools & Others
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucdtwork&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 📫 Connect With Me
+
+<p align="center">
   <a href="mailto:phucdt.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-phucdt.work%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/file/d/15FJ1-eCxZf2fULI5W9zlyVVrCEOGU09Y/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://github.com/phucdtWork" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
-- 🔭 Currently working on **[Pago](https://www.facebook.com/PagoSolution.vn)**
-- 🌱 Learning **Next.js**, and deepening skills in **React Native**
-- 💬 Ask me about **React, React Native, Tailwind CSS**
-- 📫 Reach me at: **phucdt.work@gmail.com**
-- 📄 Know more about my experience: [View Resume](https://drive.google.com/file/d/15FJ1-eCxZf2fULI5W9zlyVVrCEOGU09Y/view?usp=sharing)
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:phucdt.work@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://www.facebook.com/PagoSolution.vn" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>
-  <a href="https://github.com/your-github-username" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,nodejs,express,mongodb,mysql,firebase,git,figma" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="160" />
-</p>
-
----
-
-### 🧠 Quote of the Day
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
-<p align="center">✨ Thank you for visiting my profile ✨</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+  
+  ---
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+</div>
