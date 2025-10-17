@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#" target="_blank">
-    <img src="svg/phucdtWork.svg" width="100%" alt="phucdtWork Banner" />
+    <img src="svg/phucdtWork2.svg" width="100%" alt="phucdtWork Banner" />
   </a>
 </div>
 
