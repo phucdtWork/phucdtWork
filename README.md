@@ -84,7 +84,7 @@ const phuc = {
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="mailto:phucdt.work@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=phucdt.work@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
   <a href="https://drive.google.com/file/d/15FJ1-eCxZf2fULI5W9zlyVVrCEOGU09Y/view?usp=sharing" target="_blank">
