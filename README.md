@@ -75,12 +75,6 @@ const phucDT = {
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucdtwork&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 📫 Connect With Me
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=phucdt.work@gmail.com" target="_blank"  rel="noopener noreferrer">
