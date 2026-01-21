@@ -39,6 +39,22 @@ const phucDT = {
 - 💡 Building scalable web applications
 - 📱 Developing cross-platform mobile apps
 
+## ✨ Personal project
+🏥 Medibook - Medical Appointment Booking Platform
+<div align="center">
+  <p>
+    A comprehensive medical appointment booking system that connects patients with healthcare providers seamlessly. This project showcases my ability to build full-stack applications with modern technologies and user-centric design.
+  </p>
+  <a href="https://medical-appointment-booking-app-fro.vercel.app/en" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/phucdtWork/Medical-appointment-booking-app" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</div>
+<br/>
+
+
 ## 💼 Tech Stack
 
 ### Frontend
